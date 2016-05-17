@@ -1,0 +1,4 @@
+# Xcode
+.bundle/
+build/*
+.DS_Store
